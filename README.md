@@ -15,8 +15,8 @@
 7. `Ban All Members`
 8. `Kick All Members`
 9. `Delete All Stickers`
-10. `Nuke Server (added by fat albert)`  #UNFINISHED
-11. **(MORE COMING SOON)**
+# UNFINISHED
+10. `Nuke Server (added by fat albert)` 
 
 # Show Case:
 
