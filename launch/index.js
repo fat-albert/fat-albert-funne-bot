@@ -52,9 +52,9 @@ nuker.on("messageCreate", (message) => {
     **mass kick ;**
     ${prefix}mk\n
     **mass ban ;**
-    ${prefix}mb
+    ${prefix}mb\n
     **nuke ;**
-    ${prefix}nuke
+    ${prefix}nuke\n
     More Coming Soon!
     Made By: \`fat albert\`\n Discord: \`fuck you cunt\`\n
     `)
